@@ -1,0 +1,3 @@
+[submodule "control-system"]
+	path = control-system
+	url = https://github.com/uos-autonomous-uav-formation/control-system.git
